@@ -1,1 +1,9 @@
-# Write your code here
+# creating a while loop
+
+count = 10 
+
+while count <= 10 && >= 1 do
+  puts "{count}"
+  count =- 1
+end 
+puts "Happy New Year!"
